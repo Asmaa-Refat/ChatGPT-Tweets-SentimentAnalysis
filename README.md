@@ -5,3 +5,7 @@
 - in order for the code to run, you need to download a file called "glove.6B.300d.txt".
 - you can find it in a zip(glove.6B.zip) that you can download from here --> https://nlp.stanford.edu/projects/glove/ 
 - you have to put the "glove.6B.300d.txt" in the same folder as the code.
+
+- Algorithms used in this assignment:
+  - CNN
+  - LSTM (modified version of RNN)  
